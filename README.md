@@ -59,7 +59,7 @@ print(txt.upper())
 print(txt.lower())
 ```
 
-- Untuk mengganti karakter `'H'` dengan karakter `'J'`, gunakan method `replace()`.
+- Untuk mengganti karakter **`'H'`** dengan karakter `'J'`, gunakan method `replace()`.
 
 ```
 # Mengganti karakter H dengan karakter J
@@ -82,7 +82,7 @@ print()
 - Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal `{}` untuk menempatkan variable sebelumnya.
 
 ```
-  umur = 24
+  umur = 19
   txt = "\nHello, nama saya john, dan umur saya adalah {0} tahun\n"
 
   print(txt.format(umur))
