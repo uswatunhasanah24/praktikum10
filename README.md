@@ -28,9 +28,9 @@
 print(len(txt))
 ```
 
-- Cara mengambil satu karakter pada string yaitu dengan menggunakan kurung siku `[ ]` dan deklarasi nomor di dalam kurung siku dengan urutan *ARRAY* 
-dan menggunakan titik dua lalu masukan nomor *ARRAY* selanjutnya. Untuk mengambil karakter terakhir, gunakan index [-1]. Sedangkan untuk mengambil 
-karakter index ke-2 sampai ke-4, gunakan index [2:5].
+- Cara mengambil satu karakter pada string yaitu dengan menggunakan kurung siku `[ ]` dan deklarasi nomor di dalam kurung siku dengan urutan **ARRAY**
+dan menggunakan titik dua lalu masukan nomor **ARRAY**  selanjutnya. Untuk mengambil karakter terakhir, gunakan **index [-1]**. Sedangkan untuk mengambil 
+karakter **index ke-2 sampai ke-4, gunakan index [2:5]**.
 
 ```
 # Mengambil karakter terakhir
