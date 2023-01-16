@@ -88,4 +88,9 @@ print()
   print(txt.format(umur))
 ```
 
+### Output Latihan2
+
+![ss2](https://user-images.githubusercontent.com/115516474/212738733-ad62f316-b256-4f4d-8f9d-3ddf4da0067a.png)
+
+
 ### Selesai
