@@ -38,20 +38,29 @@ print(txt[-1])
 print(txt[2:5])
 ```
 
-Jika ingin menghilangkan spasi pada string, gunakan method replace(). Method replace() mengganti semua kemunculan string lama dengan yang baru atau paling banyak kemunculan.
+Jika ingin menghilangkan spasi pada string, gunakan method replace(). Method replace() mengganti semua kemunculan string lama dengan yang
+baru atau paling banyak kemunculan.
 
 Di dalam method replace, kita dapat menggunakan 2 cara, yang pertama bisa menggunakan (txt.replace(" ", "")) dan kedua dengan cara (txt.replace(txt[5], "")).
 
+```
 # Menghilangkan spasi pada text tersebut (HelloWorld)
 print(txt.replace(" ", ""))
+```
+
 Untuk mengubah huruf menjadi besar, gunakan method upper(). Sedangkan jika ingin mengubah huruf menjadi kecil, gunakan method lower().
 
+```
 # Mengubah text menjadi huruf besar
 print(txt.upper())
 # Mengubah text menjadi huruf kecil
 print(txt.lower())
+```
+
 Untuk mengganti karakter 'H' dengan karakter 'J', gunakan method replace().
 
+```
 # Mengganti karakter H dengan karakter J
 print(txt.replace("H", "J"))
 print()
+```
