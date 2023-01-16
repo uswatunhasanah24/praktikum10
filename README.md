@@ -6,8 +6,8 @@
 | No | Description | Link |
 |-----|------|-----|
 |1|Python String|[Click Here](#Python-String)|
-|2|Latihan 1|[Click Here](#Latihan-1)|
-|3|Latihan 2|[Click Here](#Latihan-2)|
+|2|Latihan 1|[Click Here](#Latihan1)|
+|3|Latihan 2|[Click Here](#Latihan2)|
 
 ### Python String
 - String adalah jenis yang paling populer di Python.
